@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity(),View.OnClickListener {
 
                 }
 
-                ///We cak write above line in this way
+                ///We cak write above line if else statement in this way
                 //btnButton.isEnabled = it.toString().isNotEmpty() && it.toString().length > 6 && it.toString().length < 20
             }
 
